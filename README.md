@@ -18,6 +18,15 @@
 - 📫 Contact me on [Discord](https://discord.com/users/748804344765349929), [Twitter](https://twitter.com/FasterMars), [Reddit](https://www.reddit.com/user/SaltedCoffee9065)
 - 🌐 Visit my website [TEMPORARARILY INACTIVE]
 
-
-
 ![FasterMars' GitHub stats](https://github-readme-stats.vercel.app/api?username=FasterMars16&show_icons=true&theme=darcula)
+
+## FAQ
+
+    - What happened to your old account?
+    > It was lost during an OS upgrade, the 2 factor authentication
+      software was lost, and recovery codes didn't work, resulting 
+      in the loss of the old account.
+
+    - What will Lumiere Labs be doing in the future?
+    > We develop software that makes people's tasks easier, and also 
+      look forward to expand into the direction of game development.
