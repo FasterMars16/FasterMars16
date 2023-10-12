@@ -5,9 +5,8 @@
     and learn to improve the way I write code.
     I started a group called Lumière labs back in 2020 with a group of friends, writing code for the purpose of 
     fun, enjoyment and learning, having something to look after. 
-    We didn't even know GitHub was a thing back then, and now with the flow of time, we have adapted to industry
-    standards.
-
+    We didn't even know GitHub was a thing back then, and now with the flow of time, we have become more productive
+    in what we do
 ## - Some info about me
 
 - 🖥 Hobbyist game & software developer
