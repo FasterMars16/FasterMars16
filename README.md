@@ -10,10 +10,7 @@
 - 🖥 Hobbyist game & software developer
 - 📚 Currently learning [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Unity engine](https://unity.com/), [Python](https://python.org/), [Java](https://java.com/), [Blender](https://blender.org/)
 - 💼 Founder of [Lumière Labs](https://github.com/Lumiere-Labs)
-- 🎮 Latest project: [Flap Game](https://Github.com/Lumiere-Labs/Flap/)
 - 🌐 Visit my website [TEMPORARARILY INACTIVE]
 
 ## Status
 🚧 Currently on Hiatus due to academics
-
-![FasterMars' GitHub stats](https://github-readme-stats.vercel.app/api?username=FasterMars16&show_icons=true&theme=transparent)
